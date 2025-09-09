@@ -25,6 +25,14 @@
 ---
 
 
-## 🌍 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/shahed-mirallem-325260357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-- Email: shahedmirallem@gmail.com 
+## 🌍 Connect Me
+
+<a href="https://www.linkedin.com/in/shahed-mirallem" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+</a>
+<a href="https://github.com/shahed-mirallem" target="_blank">
+  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>
+</a>
+<a href="mailto:shahed.mirallem@example.com">
+  <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
+</a>
