@@ -25,7 +25,7 @@
 ---
 
 
-## 🌍 Connect Me
+## 🌍 Connect with Me
 <a href="https://www.linkedin.com/in/shahed-mirallem-325260357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
 </a>
